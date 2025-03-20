@@ -21,5 +21,5 @@ Technologies Used:
 •	Relational Database Management Systems (RDBMS)
 •	Data Analysis with SQL Queries
 Conclusion: This project demonstrates the use of SQL in managing and analyzing a music database. By executing the provided queries, one can extract meaningful insights regarding sales, customer behavior, and employee roles. This project is ideal for those interested in SQL-based data analysis and database management.
-GitHub Repository: To make this project publicly accessible, upload the SQL file along with this description to your GitHub repository. Be sure to include a README file for further explanations and usage instructions.
+
 
